@@ -2,24 +2,24 @@ id,mood_tag,text,tone,language,safety_flag
 1,confused,You are doing your best to understand; take your time and trust yourself.,supportive,English,safe
 2,anxious,You can breathe through this moment; your feelings are valid.,calming,English,safe
 3,depressed,You are not alone and your pain matters; brighter days are possible.,hopeful,English,safe
-4,stressed,You have overcome challenges before, and you can handle this too.,reassuring,English,safe
+4,stressed,You have overcome challenges before; and you can handle this too.,reassuring,English,safe
 5,sad,It's okay to feel sad; let yourself rest and heal.,gentle,English,safe
 6,happy,Celebrate your happiness and share your light with others.,uplifting,English,safe
-7,lonely,Even when you feel alone, you are deeply valued and loved.,comforting,English,safe
+7,lonely,Even when you feel alone; you are deeply valued and loved.,comforting,English,safe
 8,excited,Your excitement is a sign of wonderful things ahead—enjoy every moment!,joyful,English,safe
 9,suicidal,You matter. Please reach out for help; you deserve support and care.,urgent,English,flag
-10,betrayed,Your trust was broken, but you can rebuild and protect your heart.,validating,English,safe
+10,betrayed,Your trust was broken; but you can rebuild and protect your heart.,validating,English,safe
 11,lost,It's okay to not have all the answers; your path will become clearer.,gentle,English,safe
 12,angry,Your anger is valid; let it pass and express it in healthy ways.,grounded,English,safe
-13,abandoned,You are worthy of love and care, regardless of who left.,reassuring,English,safe
+13,abandoned,You are worthy of love and care; regardless of who left.,reassuring,English,safe
 14,hopeful,Hold onto hope—it can guide you toward healing and happiness.,encouraging,English,safe
 15,aloof,It’s okay to take space and reflect; your boundaries are valuable.,accepting,English,safe
 16,nonchalant,Your calmness can help you weather any storm.,neutral,English,safe
 17,apprehensive,You are courageous for facing uncertainty; trust yourself.,encouraging,English,safe
-18,dark,Even in darkness, a spark of light remains for you.,reassuring,English,safe
+18,dark,Even in darkness; a spark of light remains for you.,reassuring,English,safe
 19,dejected,You will find strength again; this feeling is temporary.,gentle,English,safe
 20,rejected,Rejection does not define your worth; you are valuable.,validating,English,safe
-21,gloomy,Clouds pass, and so will this mood; brighter moments await.,hopeful,English,safe
+21,gloomy,Clouds pass; and so will this mood; brighter moments await.,hopeful,English,safe
 22,erratic,It's okay to feel unpredictable; take time to ground yourself.,calming,English,safe
 23,horny,Your desires are natural; honor them with respect and care.,neutral,English,safe
 24,fearful,You are safe right now; courage grows with every step.,reassuring,English,safe
@@ -33,7 +33,7 @@ id,mood_tag,text,tone,language,safety_flag
 32,mournful,Your grief is sacred; honor your feelings and memories.,gentle,English,safe
 33,nervous,You can do this; each step forward is a victory.,encouraging,English,safe
 34,overwhelmed,Pause and breathe; you are capable of handling things one at a time.,reassuring,English,safe
-35,ominous,Even when things seem uncertain, you can find your way.,reassuring,English,safe
+35,ominous,Even when things seem uncertain; you can find your way.,reassuring,English,safe
 36,pessimistic,Your perspective matters; hope can grow in unlikely places.,hopeful,English,safe
 37,resentful,Forgiveness is a gift for yourself; you deserve peace.,healing,English,safe
 38,restless,Channel your energy into something positive; movement helps.,motivating,English,safe
@@ -80,7 +80,7 @@ id,mood_tag,text,tone,language,safety_flag
 79,burnt-out,You are allowed to pause and replenish your energy.,gentle,English,safe
 80,fatigued,Take care of yourself; rest is healing.,gentle,English,safe
 81,animated,Your enthusiasm brings joy to others.,cheerful,English,safe
-82,alienated,You belong and are valued, even when you feel apart.,comforting,English,safe
+82,alienated,You belong and are valued; even when you feel apart.,comforting,English,safe
 83,isolated,You are not alone; connection is possible.,reassuring,English,safe
 84,zestful,Your zest inspires others; keep embracing life.,uplifting,English,safe
 85,afraid,Face your fears gently; you are safe here.,reassuring,English,safe
